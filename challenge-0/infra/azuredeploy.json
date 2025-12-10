@@ -11,12 +11,8 @@
   "parameters": {
     "location": {
       "type": "string",
-      "defaultValue": "swedencentral",
+      "defaultValue": "uksouth",
       "allowedValues": [
-        "swedencentral",
-        "switzerlandnorth",
-        "francecentral",
-        "westus",
         "uksouth"
       ],
       "metadata": {
